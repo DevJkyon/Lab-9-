@@ -17,7 +17,7 @@ nav:hover {
     color: aquamarine;  
 }  
   
-.contenedor {  
+.container {  
     width: 98%;  
     margin: 20px auto;  
     padding: 15px;  
@@ -26,11 +26,11 @@ nav:hover {
     box-shadow: 0 10px rgb(58, 14, 19);  
 }  
 
-.contenedor h2 {  
+.container h2 {  
     color: #333;  
 }  
 
-.contenedor p {  
+.container p {  
     color: #555;  
     font-size: 16px;  
     line-height: 1.6;  
